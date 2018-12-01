@@ -1,0 +1,9 @@
+{
+  "command": "우편함",
+  "command-aliases": [
+    "mail",
+    "mailbox",
+    "우편"
+  ],
+  "command-alias-enabled": true
+}
