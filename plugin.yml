@@ -1,5 +1,5 @@
 name: MailBox
 version: 1.0.0
 api: [4.0.0]
-authors: [nlog]
+authors: nlog
 main: nlog\MailBox\Loader
